@@ -1,0 +1,17 @@
+h1{
+    color:red;
+}
+h1:hover{
+
+    background-color:slateblue;
+}
+p{
+    color:saddlebrown;
+    
+}
+p:hover{
+    background-color: yellowgreen;
+}
+footer{
+    color:tomato;
+}
