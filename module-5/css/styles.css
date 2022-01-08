@@ -1,6 +1,6 @@
 body {
   font-size: 16px;
-  color: rgb(204, 198, 172);
+  color: #fff;
   background-color: #61122f;
   font-family: 'Oxygen', sans-serif;
 }
@@ -50,7 +50,7 @@ body {
   margin-top: 10px;
 }
 #nav-list a {
-  color: #a55270;
+  color: #951C49;
   text-align: center;
 }
 #nav-list a:hover {
@@ -370,6 +370,3 @@ h3.menu-item-title {
     width: 100%;
   }
 }
-
-
-
